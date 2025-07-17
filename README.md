@@ -1,4 +1,4 @@
-# O_Mercado
+# O_Mercado — Laboratoria
 
 Neste projeto, trabalhei com o **Google Sheets** com o objetivo de fazer uma **segmentação de clientes através do RFM**.
 
